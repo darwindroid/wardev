@@ -1,100 +1,27 @@
-[
- {
-	 "wallpaper_index":"1",
-	 "wallpaper_name":"New HD 1",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com/full/890220.jpg"
- },
- {
-	 "wallpaper_index":"2",
-	 "wallpaper_name":"New HD 2",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com/full/890222.jpg"
- },
- {
-	 "wallpaper_index":"3",
-	 "wallpaper_name":"New HD 3",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com/full/890224.jpg"
- },
- {
-	 "wallpaper_index":"4",
-	 "wallpaper_name":"New HD 4",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com/full/890225.jpg"
- },
- {
-	 "wallpaper_index":"5",
-	 "wallpaper_name":"New HD 5",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com/full/890227.jpg"
- },
- {
-	 "wallpaper_index":"6",
-	 "wallpaper_name":"New HD 6",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com//full/890252.jpg"
- },
- {
-	 "wallpaper_index":"7",
-	 "wallpaper_name":"New HD 7",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com//full/890259.jpg"
- },
- {
-	 "wallpaper_index":"8",
-	 "wallpaper_name":"New HD 8",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://wallpaperaccess.com",
-	 "wallpaper_url":"https://wallpaperaccess.com//full/890260.jpg"
- },
- {
-	 "wallpaper_index":"9",
-	 "wallpaper_name":"New HD 9",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://pinterest.com",
-	 "wallpaper_url":"https://i.pinimg.com/originals/1c/f0/00/1cf000a58bea3224e11f156167516cd1.jpg"
- },
- {
-	 "wallpaper_index":"10",
-	 "wallpaper_name":"New HD 10",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://pinterest.com",
-	 "wallpaper_url":"https://i.pinimg.com/originals/c4/c9/b5/c4c9b5174e5ce789568b061c78a01f4a.jpg"
- },
- {
-	 "wallpaper_index":"11",
-	 "wallpaper_name":"New HD 11",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://pinterest.com",
-	 "wallpaper_url":"https://i.pinimg.com/originals/aa/73/cd/aa73cd5661159aa9bd3ef9049edc57a1.jpg"
- },
- {
-	 "wallpaper_index":"12",
-	 "wallpaper_name":"New HD 12",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://pinterest.com",
-	 "wallpaper_url":"https://i.pinimg.com/originals/b2/bd/81/b2bd81c18add1d49deeb93f96c09dd37.jpg"
- },
- {
-	 "wallpaper_index":"13",
-	 "wallpaper_name":"New HD 13",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://pinterest.com",
-	 "wallpaper_url":"https://i.pinimg.com/originals/b6/b1/36/b6b136a38debbf1f94fffc36eccd2000.jpg"
- },
- {
-	 "wallpaper_index":"14",
-	 "wallpaper_name":"New HD 14",
-	 "wallpaper_site_name":"New Wallpaper",
-	 "wallpaper_site_url":"https://pinterest.com",
-	 "wallpaper_url":"https://i.pinimg.com/originals/12/82/93/128293b0179d982501dbd1153a57e5fc.jpg"
- }
-]
+{
+
+  "username": "afrizald",
+  "album": [
+    "GirlyM"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-1961763088641942",
+  "app_id": "ca-app-pub-1961763088641942~3716023816",
+  "admob_banner_id": "ca-app-pub-1961763088641942/7226881659",
+  "admob_interstitial_id": "ca-app-pub-1961763088641942/2658093018",
+  "admob_native_id": "ca-app-pub-1961763088641942/9661473306",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "interstitial_inverval": 1,
+
+  "primary_ads": "ADMOB"
+}
