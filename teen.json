@@ -5,11 +5,11 @@
     "teen"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "pub-196176308864194",
+  "app_id": "ca-app-pub-1961763088641942~3039901231",
+  "admob_banner_id": "ca-app-pub-1961763088641942/6596002867",
+  "admob_interstitial_id": "ca-app-pub-1961763088641942/6404431176",
+  "admob_native_id": "ca-app-pub-1961763088641942/2273614478",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -21,7 +21,7 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "interstitial_inverval": 1,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB"
 }
