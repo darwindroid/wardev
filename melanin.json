@@ -4,7 +4,7 @@
   "album": [
     "Melanin"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "pub_id": "pub-1961763088641942",
   "app_id": "ca-app-pub-1961763088641942~4130230434",
   "admob_banner_id": "ca-app-pub-1961763088641942/3347825326",
@@ -23,5 +23,5 @@
 
   "interstitial_inverval": 1,
 
-  "primary_ads": "ADMOB"
+  "primary_ads": "FAN"
 }
