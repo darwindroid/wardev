@@ -17,11 +17,11 @@
   "admob_hpk_4": "mobile",
   "admob_hpk_5": "insurance",
 
-  "fan_banner_id": "",
+  "fan_banner_id": "340180463729636_340181770396172",
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
   "interstitial_inverval": 1,
 
-  "primary_ads": "ADMOB"
+  "primary_ads": "FAN"
 }
