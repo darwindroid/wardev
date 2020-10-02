@@ -1,0 +1,27 @@
+{
+
+  "username": "afrizald",
+  "album": [
+    "dontouch"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~4831851906",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fan_interstitial_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fan_native_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+  "interstitial_inverval": 1,
+
+  "primary_ads": "FAN"
+}
